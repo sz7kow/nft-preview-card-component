@@ -35,7 +35,6 @@ Your users should be able to:
 ### Built with
 
 - HTML
-- JavaScript
 - Sass
 
 ## Author
